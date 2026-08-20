@@ -16,15 +16,7 @@ An end-to-end data analytics project demonstrating data ingestion, ETL processin
 ---
 
 ## 📐 Data Architecture (Star Schema)
-[DimCustomer]            [DimProduct]
-         \                        /
-          \                      /
-        +--------------------------+
-        |        FactSales         |
-        +--------------------------+
-           /                    \
-          /                      \
-   [DimLocation]              [DimDate]
+
 
 ---
 
