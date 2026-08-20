@@ -29,9 +29,15 @@ An end-to-end data analytics project demonstrating data ingestion, ETL processin
 ---
 
 ## 📁 Repository Structure
-├── data_cleaning.py          # Python ETL and cleaning script
-├── cleaned_sales_data.csv     # Cleaned dataset ready for SQL/BI
-├── queries.sql               # Star Schema DDL & analytical queries
-├── Sales_Dashboard.pbix      # Power BI dashboard workbook file
-├── dashboard_preview.png     # Screenshot of executive dashboard
-└── README.md                 # Project documentation
+├── data_cleaning.py          
+# Python ETL and cleaning script
+├── cleaned_sales_data.csv    
+# Cleaned dataset ready for SQL/BI
+├── queries.sql              
+# Star Schema DDL & analytical queries
+├── Sales_Dashboard.pbix      
+# Power BI dashboard workbook file
+├── dashboard_preview.png     
+# Screenshot of executive dashboard
+└── README.md                
+# Project documentation
